@@ -1,0 +1,15 @@
+from math import floor
+
+planing_processors = int(input())
+number_employees = int(input())
+working_days = int(input())
+
+total_hours = number_employees * working_days * 8
+made_processors = floor(total_hours / 3)
+less_processors = abs(planing_processors - made_processors)
+total = less_processors * 110.10
+
+if made_processors < planing_processors:
+    print(f"Losses: -> {total:.2f} BGN")
+else:
+    print(f"Profit: -> {total:.2f} BGN")
