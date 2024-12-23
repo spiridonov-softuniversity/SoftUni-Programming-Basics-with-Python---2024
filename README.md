@@ -11,3 +11,7 @@ Skills Acquired:
  Conditional statements (if-else)
  Simple arithmetic calculations
  Complex loops (nested for and while loops)
+
+🎓 Certificate
+------------------------------------------------------------------------------------
+Below is the certificate I obtained during the course:
