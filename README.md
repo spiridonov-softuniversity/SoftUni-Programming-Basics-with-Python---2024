@@ -16,8 +16,8 @@
 🎓 Certificate
 ------------------------------------------------------------------------------------
 Below is the certificate I obtained during the course:
-[Programming Basics - November 2024 - Certificate.pdf](https://github.com/user-attachments/files/18231833/Programming.Basics.-.November.2024.-.Certificate.pdf)
 
+![Programming Basics - May 2022 - Certificate](https://github.com/user-attachments/assets/cd1f934b-1546-4890-9622-8792752d1fd5)
 https://softuni.bg/certificates/details/135166/d24eace2
 
 This certificate showcases my successful completion of the course and my proficiency in Python Basics.
