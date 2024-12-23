@@ -16,6 +16,7 @@
 🎓 Certificate
 ------------------------------------------------------------------------------------
 Below is the certificate I obtained during the course:
-https://softuni.bg/certificates/details/234513/6f57ec1d
+
+https://softuni.bg/certificates/details/135166/d24eace2
 
 This certificate showcases my successful completion of the course and my proficiency in Python Basics.
