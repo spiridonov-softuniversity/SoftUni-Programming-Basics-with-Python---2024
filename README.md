@@ -16,3 +16,6 @@
 🎓 Certificate
 ------------------------------------------------------------------------------------
 Below is the certificate I obtained during the course:
+![image](https://github.com/user-attachments/assets/56e4cfe1-056d-43cb-9d74-959baa44764e)
+
+This certificate showcases my successful completion of the course and my proficiency in Python Basics.
