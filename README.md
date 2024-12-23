@@ -16,6 +16,7 @@
 🎓 Certificate
 ------------------------------------------------------------------------------------
 Below is the certificate I obtained during the course:
+[Programming Basics - November 2024 - Certificate.pdf](https://github.com/user-attachments/files/18231833/Programming.Basics.-.November.2024.-.Certificate.pdf)
 
 https://softuni.bg/certificates/details/135166/d24eace2
 
